@@ -29,6 +29,8 @@ Clone the repository:
 git clone https://github.com/shivichourey/brain-tumor-classification.git
 cd brain-tumor-classification
 
+Install dependencies:
+pip install -r requirements.txt
 
 ---
 
